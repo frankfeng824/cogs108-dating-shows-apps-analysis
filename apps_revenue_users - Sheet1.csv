@@ -1,0 +1,22 @@
+app,year,revenue (mm),users (mm)
+Bumble,2019,240,22
+Bumble,2020,337,26
+Bumble,2021,532,28
+Bumble,2022,694,30
+Bumble,2023,844,38
+Bumble,2024,866,42
+Bumble,2025,782,35
+Hinge,2019,31,8
+Hinge,2020,90,13
+Hinge,2021,197,16
+Hinge,2022,284,20
+Hinge,2023,396,25
+Hinge,2024,550,28
+Hinge,2025,689,30
+Tinder,2019,1150,
+Tinder,2020,1410,
+Tinder,2021,1650,
+Tinder,2022,1794,
+Tinder,2023,1918,
+Tinder,2024,1941,
+Tinder,2025,1990,
